@@ -41,3 +41,8 @@ To start the chat application, execute the main interface script from the projec
 
 ```bash
 python interface.py
+```
+
+## Documentation
+For more detailed documentation, setup instructions, and usage examples, see the [Wiki](https://github.com/Ragu-123/Cli-Chat/wiki).
+
