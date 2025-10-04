@@ -20,14 +20,14 @@ A command-line chat application that runs a text generation model locally. This 
 
 1.  **Clone the project:**
     ```bash
-    git clone <your-repository-url>
-    cd <project-directory>
+    git clone https://github.com/Ragu-123/Cli-Chat.git
+    cd Cli-Chat
     ```
 
 2.  **Set up a Python virtual environment:**
     ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows: `venv\Scripts\activate`
+    python -m venv cli-chat
+    source cli-chat/bin/activate  # On Windows: `cli-chat\Scripts\activate`
     ```
 
 3.  **Install dependencies:**
